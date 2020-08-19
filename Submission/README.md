@@ -1,15 +1,17 @@
 **UNIT 20 - SOLIDITY**
 submitted by - Pani Maddi
 
-![solidity.jpg](bermix.jpg)
+![solidity.jpg](bermix.jpg) {width = 50%}
 
 This homework had 3 levels
 
 **Level One - AssociateProfitSplitter contract**
 - This will accept Ether into the contract and divide the Ether evenly among the associate level employees. This will allow the Human Resources department to pay employees quickly and efficiently.
-- **Level Two - TieredProfitSplitter contract**
+
+**Level Two - TieredProfitSplitter contract**
 - This will distribute different percentages of incoming Ether to employees at different tiers/levels. For example, the CEO gets paid 60%, CTO 25%, and Bob gets 15%.
-- **Level Three - DeferredEquityPlan contract**
+
+**Level Three - DeferredEquityPlan contract**
 - This models traditional company stock plans. This contract will automatically manage 1000 shares with an annual distribution of 250 over 4 years for a single employee.
 
 **Transaction addresses for the 3 contracts**
